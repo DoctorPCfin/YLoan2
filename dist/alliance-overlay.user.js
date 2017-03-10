@@ -27,7 +27,7 @@ function declareLoAN(){
     };
 
     window.getAllianceColor = function(allianceKey) {
-        if(document.allianceData[allianceKey] == 'Ypsilon Pact){
+        if(document.allianceData[allianceKey] == 'Ypsilon Pact'){
            return '#0066ff';
         }
            
